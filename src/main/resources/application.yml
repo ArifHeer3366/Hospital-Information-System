@@ -1,0 +1,11 @@
+#spring:
+#  application:
+#    name: Vanilla
+#security:
+#    user: root
+#      password: admin
+#    oauth2:
+#      resource:
+#        filter-order: 3
+
+
